@@ -1,0 +1,8 @@
+### GET scoops
+GET http://localhost:3030/scoops
+
+### GET toppings
+GET http://localhost:3030/toppings
+
+### POST order
+POST http://localhost:3030/order
