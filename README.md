@@ -19,3 +19,7 @@ You can test routes using the `test.http` file in the root of the project. You c
 - `GET /scoops` - get a list of all available scoops
 - `GET /toppings` - get a list of all available toppings
 - `POST /order` - submit an order
+
+## License
+
+- [MIT](LICENSE.md)
